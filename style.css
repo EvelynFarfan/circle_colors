@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color:#f6f6f6; 
+}
+.cont-circle{
+	padding: 70px 0 50px 0;
+  width: 62%;
+  margin: 0 auto;
+}
+.contenedor{
+	margin: 0 auto;
+  padding: 0 5%;
+}
+.circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	display: inline-block;
+	margin: 20px;
+	border: 4px solid transparent;
+}
+#one{
+	background-color: red;
+}
+#two{
+	background-color: blue;
+}
+#three{
+	background-color: yellow;
+}
+.form{
+	text-align: center;
+  margin: 0 auto;
+  width: 20%;
+}
+label{
+	font-family: Arial;
+	color: #707070;
+	font-size: 18px;
+}
+#entrada, #cri, #super-cri{
+	width: 250px;
+	height: 30px;
+	text-align: center;
+	margin: 10px 0 0 0;
+}
